@@ -16,9 +16,6 @@ and...
 * 🚀  I'm currently working on [Telegram](http://t.me/Vladimirasss)
 * 🧠  I'm learning JavaScript
 
-<a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=14b8a6&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 ### Skills
 
 
