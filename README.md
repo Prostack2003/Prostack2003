@@ -10,6 +10,7 @@ My name is Vladimir.
 I am 20 y.o.
 
 I'm interested in study, because it's important for my future! 
+
 To this day, I study at SRSPU (South Russian State Polytechnic University) 
 and...
 
