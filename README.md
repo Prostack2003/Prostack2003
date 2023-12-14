@@ -1,10 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vladimir
-================================================================================================================================
+Hi 👋 My name is Vladimir
+=========================
 
 Web Developer or maybe Full Stack Developer?
 --------------------------------------------
 
-I'd like to tell you about myself 0\_0 My name is Vladimir, I am 20 y.o. I'm interested in study, because it's important for my future! To this day, I study at SRSPU (South Russian State Polytechnic University) and...
+I'd like to tell you about myself 0_0 
+My name is Vladimir, 
+I am 20 y.o. 
+I'm interested in study, because it's important for my future! 
+To this day, I study at SRSPU (South Russian State Polytechnic University) 
+and...
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [cool.deds@mail.ru](mailto:cool.deds@mail.ru)
