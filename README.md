@@ -5,11 +5,10 @@ Web Developer or maybe Full Stack Developer?
 --------------------------------------------
 
 I'd like to tell you about myself 0_0 
-My name is Vladimir, 
+My name is Vladimir 
 I am 20 y.o. 
 I'm interested in study, because it's important for my future! 
-To this day, I study at SRSPU (South Russian State Polytechnic University) 
-and...
+To this day, I study at SRSPU (South Russian State Polytechnic University) and...
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [cool.deds@mail.ru](mailto:cool.deds@mail.ru)
