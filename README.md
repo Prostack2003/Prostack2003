@@ -17,12 +17,7 @@ and...
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [cool.deds@mail.ru](mailto:cool.deds@mail.ru)
 * 🚀  I'm currently working on [Telegram](http://t.me/Vladimirasss)
-* 🧠  I'm learning JavaScript
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Prostack2003" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+* 🧠  I'm Frontend Developer (HTML, CSS, SCCS, BEM, Bootstrap, Tailwind, JS, TS, React, Redux, Webpack, Vite)
 
 ### Badges
 
