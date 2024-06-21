@@ -1,13 +1,13 @@
 Hi 👋 My name is Vladimir
 =========================
 
-Web Developer or maybe Full Stack Developer?
+Frontend Developer or maybe Full Stack Developer?
 --------------------------------------------
 
 I'd like to tell you about myself 0_0.
 
 My name is Vladimir.
-I am 20 y.o.
+I am 21 y.o.
 
 I'm interested in study, because it's important for my future! 
 
