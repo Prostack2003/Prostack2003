@@ -16,7 +16,7 @@ and...
 
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [cool.deds@mail.ru](mailto:cool.deds@mail.ru)
-* 🚀  I'm currently working on [Telegram](http://t.me/Vladimirasss)
+* 🚀  Also you can send message on [Telegram](http://t.me/Vladimirasss)
 * 🧠  I'm Frontend Developer (HTML, CSS, SCCS, BEM, Bootstrap, Tailwind, JS, TS, React, Redux, Webpack, Vite)
 
 ### Badges
