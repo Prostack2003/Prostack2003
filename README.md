@@ -1,7 +1,6 @@
 Hi 👋 My name is Vladimir
 =========================
 
-Frontend Developer or maybe Full Stack Developer?
 --------------------------------------------
 
 I'd like to tell you about myself 0_0.
@@ -17,7 +16,6 @@ and...
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [cool.deds@mail.ru](mailto:cool.deds@mail.ru)
 * 🚀  Also you can send message on [Telegram](http://t.me/Vladimirasss)
-* 🧠  I'm Frontend Developer (HTML, CSS, SCCS, BEM, Bootstrap, Tailwind, JS, TS, React, Redux, Webpack, Vite)
 
 ### Badges
 
